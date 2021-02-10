@@ -14,7 +14,6 @@ public interface Dog{
     {
         Dog class가 abstract class로 선언되었다면 아래 메소드 내용을 적는 것이 가능하지만,
         interface에서는 절대 불가하다. 
-        //System.out.println("hello");
     }
     */
     public void one();
